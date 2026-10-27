@@ -33,7 +33,7 @@ The gaze vector is computed from the eye center to the pupil position. The `arct
 Clone the project:
 
 ```bash
-git clone https://github.com/Harika-Pothina/GazeAngleTracking.git
+git clone https://github.com/bhumiip01/GazeAngleTracking.git
 cd GazeAngleTracking
 ```
 
